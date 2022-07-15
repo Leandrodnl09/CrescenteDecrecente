@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CrescenteOuDecrescente\CrescenteOuDecrescente\bin\Debug\net6.0\CrescenteOuDecrescente.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CrescenteOuDecrescente\CrescenteOuDecrescente\bin\Debug\net6.0\CrescenteOuDecrescente.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CrescenteOuDecrescente\CrescenteOuDecrescente\bin\Debug\net6.0\CrescenteOuDecrescente.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CrescenteOuDecrescente\CrescenteOuDecrescente\bin\Debug\net6.0\CrescenteOuDecrescente.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CrescenteOuDecrescente\CrescenteOuDecrescente\bin\Debug\net6.0\CrescenteOuDecrescente.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CrescenteOuDecrescente\CrescenteOuDecrescente\obj\Debug\net6.0\CrescenteOuDecrescente.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CrescenteOuDecrescente\CrescenteOuDecrescente\obj\Debug\net6.0\CrescenteOuDecrescente.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CrescenteOuDecrescente\CrescenteOuDecrescente\obj\Debug\net6.0\CrescenteOuDecrescente.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CrescenteOuDecrescente\CrescenteOuDecrescente\obj\Debug\net6.0\CrescenteOuDecrescente.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CrescenteOuDecrescente\CrescenteOuDecrescente\obj\Debug\net6.0\CrescenteOuDecrescente.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CrescenteOuDecrescente\CrescenteOuDecrescente\obj\Debug\net6.0\CrescenteOuDecrescente.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CrescenteOuDecrescente\CrescenteOuDecrescente\obj\Debug\net6.0\refint\CrescenteOuDecrescente.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CrescenteOuDecrescente\CrescenteOuDecrescente\obj\Debug\net6.0\CrescenteOuDecrescente.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CrescenteOuDecrescente\CrescenteOuDecrescente\obj\Debug\net6.0\CrescenteOuDecrescente.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CrescenteOuDecrescente\CrescenteOuDecrescente\obj\Debug\net6.0\ref\CrescenteOuDecrescente.dll
